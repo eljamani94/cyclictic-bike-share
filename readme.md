@@ -2,7 +2,7 @@
 
 **View the full interactive analysis here:**
 
-## 🌟 [Click to Explore the full Report](https://eljamani94.github.io/cyclictic-bike-share/case_study_bikes_v1.html) 🌟
+## 🌟 [Click to Explore the Full Report](https://eljamani94.github.io/cyclictic-bike-share/case_study_bikes_v1.html) 🌟
 
 Everything I did in this project—including data analysis, visualizations, and insights—is available in this interactive HTML report.
 
